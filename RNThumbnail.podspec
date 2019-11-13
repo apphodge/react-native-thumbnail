@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license        = package['license']
   s.author         = package['author']
   s.homepage       = "https://github.com/phuochau/react-native-thumbnail/#readme"
-  s.source         = { :git => 'https://github.com/phuochau/react-native-thumbnail.git' }
+  s.source         = { :git => 'https://github.com/apphodge/react-native-thumbnail.git' }
 
   s.requires_arc   = true
   s.platform       = :ios, '7.0'
